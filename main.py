@@ -1,4 +1,4 @@
-print('Hello world! ya zuisas')
+print('Hello world!')
 
 
 
